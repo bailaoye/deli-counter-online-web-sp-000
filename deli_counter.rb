@@ -14,4 +14,3 @@ def take_a_number(customers, name)
   line << name
   "Welcome, #{name}. You are number 1 in line."
 end
-
