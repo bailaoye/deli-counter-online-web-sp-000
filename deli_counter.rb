@@ -1,0 +1,2 @@
+def line(customers)
+end
