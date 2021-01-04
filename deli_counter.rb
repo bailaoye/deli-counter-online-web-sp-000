@@ -10,7 +10,7 @@ def line(customers)
   end
 end
 
-def take_a_number(customers, name)
+def take_a_number(line, name)
   line << name
   puts "Welcome, #{name}. You are number 1 in line."
 end
