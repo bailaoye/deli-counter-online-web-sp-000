@@ -11,5 +11,6 @@ def line(customers)
 end
 
 def take_a_number(customers, name)
-  if customer
+  if customers.empty?
+    "Welcome, #{name}. You are number 1 in line."
     
