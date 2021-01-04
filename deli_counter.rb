@@ -9,3 +9,5 @@ def line(customers)
     puts line
   end
 end
+
+def take_a_number
