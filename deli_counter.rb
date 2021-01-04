@@ -4,7 +4,6 @@ def line(customers)
   else
     line = nil
     customers.each_with_index do |index, customer|
-      
+
   end
 end
-
