@@ -5,5 +5,7 @@ def line(customers)
     line = "The line is currently: "
     customers.each_with_index do |index, customer|
       line << "#{index}. #{customer} "
+    end
+    line
   end
 end
